@@ -27,5 +27,12 @@ DB_PASSWORD=
 php artisan key:generate
 php artisan storage:link
 php artisan migrate
+php artisan db:seed
 php artisan serve
+```
+
+## default login creadentials 
+```
+email : admin@example.com
+password: password
 ```
