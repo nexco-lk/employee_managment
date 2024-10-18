@@ -28,8 +28,13 @@ php artisan key:generate
 php artisan storage:link
 php artisan migrate
 php artisan db:seed
-php artisan serve
 ```
+
+## starting development server 
+`php artisan serve`
+
+## starting vite compiler
+`npm run dev`
 
 ## default login creadentials 
 ```
